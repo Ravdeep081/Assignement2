@@ -127,7 +127,6 @@ public class tST {
     	        	        
 	        	           break;
 	        	        case 3:
-	        	        	SortedSet<dict> values = new TreeSet<>(map.values());
 
 	        	           break;
 	        	   }
